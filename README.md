@@ -1,1 +1,1 @@
-# scriptTemplate
+# package_template
