@@ -1,4 +1,3 @@
-#!/biometrics/global/gpythonvenv/bin/python3
 # -*- coding: utf-8 -*-
 ######### start of header ######################################
 # Program Name: m-script-name.py
