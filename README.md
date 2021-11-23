@@ -1,1 +1,2 @@
-# package_template
+# gilead_script_template
+
