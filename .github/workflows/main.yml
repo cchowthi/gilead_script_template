@@ -1,4 +1,4 @@
-name: CD - Package and load to master repo
+name: CD - Load to master repo
 on:
   push:
     branches: [ main ]
