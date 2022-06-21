@@ -5,7 +5,7 @@ on:
 
 # Define name of script
 env:
-  scriptname: script_name.py
+  scriptname: m-script-name.py
 
 jobs:
   build:
